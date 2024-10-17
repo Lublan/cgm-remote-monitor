@@ -1,4 +1,6 @@
-{
+ "engines": {
+  "npm": ">=6.0.0 <7.0.0"
+}
   "name": "CGM Remote Monitor",
   "repository": "https://github.com/nightscout/cgm-remote-monitor",
   "env": {
